@@ -1,4 +1,4 @@
-# lottery.aleo
+# lottery.aleo - Discord: simpletox
 
 ## Run Guide
 
